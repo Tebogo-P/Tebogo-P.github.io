@@ -1,13 +1,5 @@
 # Markdown-CV
 
-## Interview Video 
-
-
-<video width="640" controls>
-  <source src="https://github.com/user-attachments/assets/01413cc5-c80c-4507-90c5-40622a738007" type="video/mp4">
-</video>
-
-
 # Tebogo Pii
 **STUDENT**
 
@@ -55,3 +47,10 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
 * **Kruben Naidoo**
   * Lecturer
   * naidoo@cput.ac.za
+
+## Interview Video 
+
+
+<video width="640" controls>
+  <source src="https://github.com/user-attachments/assets/01413cc5-c80c-4507-90c5-40622a738007" type="video/mp4">
+</video>
