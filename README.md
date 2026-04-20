@@ -88,6 +88,6 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
 
 **Task:** I had to deploy my local repository to the web using the GitHub Pages hosting service.
 
-**Action:** I had previously worked with hosting on GitHub Pages, so the instruction served as a kind of recap of what I already knew. I had to set up the deployment after I committed my finished code. I followed the subject guide's visual, step-by-step instructions exactly. I was able to access the "Pages" portion in the sidebar, navigate to the repository settings, and set up the build to deploy from my main branch thanks to the guide.
+**Action:** I had previously worked with hosting on GitHub Pages, so the instruction served as a kind of recap of what I already knew. I had to set up the deployment after I committed my finished code. I followed the subject guide's visual, step by step instructions exactly. I was able to access the "Pages" portion in the sidebar, navigate to the repository settings, and set up the build to deploy from my main branch thanks to the guide.
 
 **Result:** The portfolio is currently operational after a flawless deployment. I had a firm grasp of how to host static sites for my next project thanks to the guide's detailed directions, which removed any uncertainty from the process.
