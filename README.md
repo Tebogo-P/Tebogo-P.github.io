@@ -49,6 +49,9 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
 * **Kruben Naidoo**
   * Lecturer
   * naidoo@cput.ac.za
+* **Sabre Didi**
+  * Lecturer
+  * didis@cput.ac.za
 
 ---
 
