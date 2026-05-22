@@ -56,7 +56,7 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
  
 **Evidence:**
  
-![GitHub Student Account](Screenshot2026-05-22 233803.png)
+![GitHub Student Account](School-Github-Page.png)
  
 ---
  
@@ -102,9 +102,9 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
  
 **Evidence:**
  
-![GitHub Pages Deployment]()
+![GitHub Pages Deployment](Github-Pages.png)
  
-Live site: [https://tebogo-p.github.io/Digital-Portfolio](https://tebogo-p.github.io/Digital-Portfolio)
+Live site: [https://tebogo-p.github.io/](https://tebogo-p.github.io/)
  
 ---
  
