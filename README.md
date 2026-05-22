@@ -83,7 +83,6 @@ As a passionate and dedicated ICT student, I am seeking an IT-related internship
  
 <video width="640" controls>
   <source src="Interview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 ---
  
