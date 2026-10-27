@@ -137,7 +137,7 @@ Live site: [https://tebogo-p.github.io/](https://tebogo-p.github.io/)
 
 ## Introduction and portfolio purpose
 
-This e-portfolio collects, selects, reflects on, and connects evidence from my work on the RideBox web platform. RideBox is a pre-launch concept for solar-assisted self-service kiosks that connect commuters to licensed e-hailing services without requiring a personal smartphone or data bundle.
+This e-portfolio collects, selects, reflects on, and connects evidence from my work on the RideBox web platform. RideBox is a pre-launch concept for solar-assisted self-service kiosks that connect commuters to licensed e-hailing services without requiring a personal smartphone or data bundle. My work with RideBox has been great and educational and It helped me grow as a Web Developer.
 
 The portfolio follows the four evidence practices in the assessment brief:
 
@@ -161,6 +161,7 @@ The current application is a React/Vite single-page application with React Route
 - Present the kiosk concept, technical specifications, services, FAQ content, team, and contact options.
 - Improve discoverability through page titles, descriptions, robots instructions, and a sitemap.
 - Use GitHub commits to record changes and correct issues discovered during review.
+- Hosting and maintaining the site.
 
 **Values and working agreements:**
 
