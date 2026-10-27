@@ -124,7 +124,7 @@ Live site: [https://tebogo-p.github.io/](https://tebogo-p.github.io/)
 
 
 
-| Student | Tebog Pii |
+| Student | Tebogo Pii |
 |---|---|
 | Student number | 230226442 |
 | Qualification | Diploma in Information and Communication Technology |
@@ -167,9 +167,9 @@ The current application is a React/Vite single-page application with React Route
 
 | Agreement | How it was applied |
 |---|---|
-| User-first communication | Content is organised around rider, driver, host, advertiser, and operator questions in [`Services.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Services.jsx). |
+| User-first communication | Content is organised around rider, driver, host, advertiser, and operator questions in [`Services.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Services.jsx). |
 | Design before implementation | The Figma design is retained as the visual reference for the website direction. |
-| Reusable implementation | Shared [`Navbar.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/components/Navbar.jsx) and [`Footer.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/components/Footer.jsx) are used around routed pages. |
+| Reusable implementation | Shared [`Navbar.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/components/Navbar.jsx) and [`Footer.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/components/Footer.jsx) are used around routed pages. |
 | Responsive delivery | Layouts use mobile-first responsive breakpoints and are adjusted in commits such as [Mobile Responsiveness Update](https://github.com/Tebogo-P/RideBox-App/commit/db5a6df75e89cd3c0029e1bb12483360800bcb34). |
 | Traceable changes | Features and corrections are recorded in the [repository commit history](https://github.com/Tebogo-P/RideBox-App/commits/main). |
 
@@ -187,8 +187,8 @@ The charter gave the project a practical boundary: communicate the product hones
 
 **Tasks and evidence:**
 
-- [x] Build the home route with the value proposition, calls to action, kiosk preview, advertising, services, and mission sections in [`Home.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Home.jsx).
-- [x] Add routes for Home, Kiosk, About, Services, Team, Contact, Legal, and a not-found page in [`App.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/App.jsx).
+- [x] Build the home route with the value proposition, calls to action, kiosk preview, advertising, services, and mission sections in [`Home.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Home.jsx).
+- [x] Add routes for Home, Kiosk, About, Services, Team, Contact, Legal, and a not-found page in [`App.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/App.jsx).
 - [x] Add descriptive page titles and metadata using `Helmet`.
 
 #### User story 2: Inspect the kiosk concept
@@ -197,9 +197,9 @@ The charter gave the project a practical boundary: communicate the product hones
 
 **Tasks and evidence:**
 
-- [x] Show front and back kiosk concept renders in [`Kiosk.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Kiosk.jsx).
+- [x] Show front and back kiosk concept renders in [`Kiosk.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Kiosk.jsx).
 - [x] Present power, connectivity, language, operator, safety, and resilience information as technical specification cards.
-- [x] Add the kiosk images and related assets in [`public/`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/public/).
+- [x] Add the kiosk images and related assets in [`public/`](https://github.com/Tebogo-P/RideBox-App/tree/main/public).
 - [x] Add kiosk imagery in the [kiosk images commit](https://github.com/Tebogo-P/RideBox-App/commit/5d9274abf290c3b9357e199d6eaed78532856c0).
 
 #### User story 3: Find a relevant service or answer
@@ -208,7 +208,7 @@ The charter gave the project a practical boundary: communicate the product hones
 
 **Tasks and evidence:**
 
-- [x] Create service descriptions for e-hailing access, advertising, secure booking, power resilience, drivers, and site hosting in [`Services.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Services.jsx).
+- [x] Create service descriptions for e-hailing access, advertising, secure booking, power resilience, drivers, and site hosting in [`Services.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Services.jsx).
 - [x] Add grouped FAQ interactions for riders, drivers, partners, and general questions.
 - [x] State clearly that the first kiosk is not yet operating and that the product is in preparation.
 
@@ -218,7 +218,7 @@ The charter gave the project a practical boundary: communicate the product hones
 
 **Tasks and evidence:**
 
-- [x] Add required name, email, and message fields in [`Contact.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Contact.jsx).
+- [x] Add required name, email, and message fields in [`Contact.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Contact.jsx).
 - [x] Add inquiry categories including Host a Kiosk, Advertising, and E-Hailing Operator.
 - [x] Build a `mailto` subject and message body from the submitted form data.
 - [x] Add submission feedback and contact metadata.
@@ -249,13 +249,13 @@ Git records the technical history of this project, but Trello would provide a cl
 
 | ID | Priority | Product backlog item | Evidence/acceptance criterion | Status |
 |---|---|---|---|---|
-| PB-01 | High | Establish React/Vite application structure | Routed pages load through [`App.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/App.jsx). | Done |
+| PB-01 | High | Establish React/Vite application structure | Routed pages load through [`App.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/App.jsx). | Done |
 | PB-02 | High | Create responsive navigation and site shell | Shared navbar/footer render across routes. | Done |
 | PB-03 | High | Explain the RideBox concept on the home page | Home page contains value proposition, kiosk preview, services, and mission content. | Done |
 | PB-04 | High | Present kiosk concept and technical details | Front/back renders and specification cards appear on the Kiosk page. | Done |
 | PB-05 | High | Add services and FAQ information | Six services and grouped FAQs are available on the Services page. | Done |
 | PB-06 | High | Add contact and inquiry flow | Contact form builds an email subject/body and gives feedback. | Done |
-| PB-07 | Medium | Add SEO and discoverability metadata | Page metadata, [`robots.txt`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/public/robots.txt), and [`sitemap.xml`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/public/sitemap.xml) are present. | Done |
+| PB-07 | Medium | Add SEO and discoverability metadata | Page metadata, [`robots.txt`](https://github.com/Tebogo-P/RideBox-App/blob/main/public/robots.txt), and [`sitemap.xml`](https://github.com/Tebogo-P/RideBox-App/blob/main/public/sitemap.xml) are present. | Done |
 | PB-08 | Medium | Improve responsive behaviour | Mobile and tablet layout corrections are recorded in Git history. | Done |
 | PB-09 | Medium | Correct content and asset issues | Team name/photo corrections are recorded in [Name fix](https://github.com/Tebogo-P/RideBox-App/commit/60403f035665fe7b8cbc168368164bfaf5affefd0) and [Regan Picture Fix](https://github.com/Tebogo-P/RideBox-App/commit/844bb557efa0ea4f7e70bbc72de64a57096798d0). | Done |
 | PB-10 | High | Publish and evidence the final portfolio | Add the final GitHub Pages URL and Trello evidence to this document. | To verify |
@@ -273,10 +273,10 @@ I prioritised the backlog in dependency order: the application shell and navigat
 | Sprint task | Output/evidence | Completion |
 |---|---|---|
 | Review the visual direction | [Figma design artefact](https://www.figma.com/file/mhBGX4VZ2vGjDRCFH4rTDl?node-id=1-1031&t=N5XllcbgBtweBV45-0&type=design&mode=design&fuid=1673636267097669421) | Done |
-| Build the React/Vite shell | [`App.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/App.jsx), [`Navbar.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/components/Navbar.jsx), and [`Footer.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/components/Footer.jsx) | Done |
-| Assemble the home experience | [`Home.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Home.jsx) | Done |
-| Add platform pages | [`Kiosk.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Kiosk.jsx), [`Services.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Services.jsx), [`About.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/About.jsx), and [`Team.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Team.jsx) | Done |
-| Add enquiry flow | [`Contact.jsx`](C:/Users/HP/OneDrive/Desktop/RideBox-App-main/RideBox-App-main/src/pages/Contact.jsx) | Done |
+| Build the React/Vite shell | [`App.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/App.jsx), [`Navbar.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/components/Navbar.jsx), and [`Footer.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/components/Footer.jsx) | Done |
+| Assemble the home experience | [`Home.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Home.jsx) | Done |
+| Add platform pages | [`Kiosk.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Kiosk.jsx), [`Services.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Services.jsx), [`About.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/About.jsx), and [`Team.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Team.jsx) | Done |
+| Add enquiry flow | [`Contact.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Contact.jsx) | Done |
 | Improve metadata and search discovery | [SEO Optimisation commit](https://github.com/Tebogo-P/RideBox-App/commit/aab11b4d427ce89681816586d51578b9f2de407e) | Done |
 | Check responsive layouts and fix content/assets | [Mobile Responsiveness Update](https://github.com/Tebogo-P/RideBox-App/commit/db5a6df75e89cd3c0029e1bb12483360800bcb34), [Name fix](https://github.com/Tebogo-P/RideBox-App/commit/60403f035665fe7b8cbc168368164bfaf5affefd0) | Done |
 | Publish final evidence | GitHub Pages URL, Trello URL, screenshots | To verify |
