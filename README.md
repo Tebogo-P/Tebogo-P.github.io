@@ -327,9 +327,9 @@ The screenshots below provide visual evidence for the design process, implementa
 These screenshots show the Figma design work used as the visual reference for the RideBox website.
 
 <p>
-  <img src="evidence/Figma%20Design%201.png" alt="RideBox Figma design 1" width="420">
-  <img src="evidence/Figma%20Design%202.png" alt="RideBox Figma design 2" width="420">
-  <img src="evidence/Figma%20design%203.png" alt="RideBox Figma design 3" width="420">
+  <img src="evidence/Figma%20Design%201.png" alt="RideBox Figma design 1" width="800">
+  <img src="evidence/Figma%20Design%202.png" alt="RideBox Figma design 2" width="800">
+  <img src="evidence/Figma%20design%203.png" alt="RideBox Figma design 3" width="800">
 </p>
 
 ### Live website evidence
@@ -337,13 +337,13 @@ These screenshots show the Figma design work used as the visual reference for th
 These screenshots show the implemented and published website across the main user journeys: the home page, kiosk concept, contact page, FAQ content, team page, and shared header/footer.
 
 <p>
-  <img src="evidence/Live%20Site%20Homepage.png" alt="Live RideBox homepage" width="420">
-  <img src="evidence/Live%20site%20homepage%20-%20Kiosk%20View.png" alt="Live RideBox homepage kiosk view" width="420">
-  <img src="evidence/Live%20site%20kioskpage%20kiosks.png" alt="Live RideBox kiosk page" width="420">
-  <img src="evidence/Live%20site%20contact%20page.png" alt="Live RideBox contact page" width="420">
-  <img src="evidence/Live%20site%20FAQ.png" alt="Live RideBox FAQ page" width="420">
-  <img src="evidence/Live%20site%20me%20on%20the%20Teams%20Page.png" alt="Live RideBox team page" width="420">
-  <img src="evidence/Live%20site%20header%20and%20footer.png" alt="Live RideBox shared header and footer" width="420">
+  <img src="evidence/Live%20Site%20Homepage.png" alt="Live RideBox homepage" width="800">
+  <img src="evidence/Live%20site%20homepage%20-%20Kiosk%20View.png" alt="Live RideBox homepage kiosk view" width="800">
+  <img src="evidence/Live%20site%20kioskpage%20kiosks.png" alt="Live RideBox kiosk page" width="800">
+  <img src="evidence/Live%20site%20contact%20page.png" alt="Live RideBox contact page" width="800">
+  <img src="evidence/Live%20site%20FAQ.png" alt="Live RideBox FAQ page" width="800">
+  <img src="evidence/Live%20site%20me%20on%20the%20Teams%20Page.png" alt="Live RideBox team page" width="800">
+  <img src="evidence/Live%20site%20header%20and%20footer.png" alt="Live RideBox shared header and footer" width="800">
 </p>
 
 ### Git and development evidence
@@ -351,9 +351,9 @@ These screenshots show the implemented and published website across the main use
 These screenshots show the repository activity and supporting development evidence used to connect the implementation to the project history.
 
 <p>
-  <img src="evidence/Commits-1.png" alt="RideBox Git commit history evidence" width="420">
-  <img src="evidence/Commits-2.png" alt="RideBox Git commit details evidence" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20222216.png" alt="RideBox additional development evidence screenshot" width="420">
+  <img src="evidence/Commits-1.png" alt="RideBox Git commit history evidence" width="800">
+  <img src="evidence/Commits-2.png" alt="RideBox Git commit details evidence" width="800">
+  <img src="evidence/Screenshot%202026-10-27%20222216.png" alt="RideBox additional development evidence screenshot" width="800">
 </p>
 
 ## 8. Evidence and submission checklist
