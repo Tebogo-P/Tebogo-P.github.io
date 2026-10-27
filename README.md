@@ -175,7 +175,7 @@ The current application is a React/Vite single-page application with React Route
 
 ### Reflection
 
-The charter gave the project a practical boundary: communicate the product honestly, keep the interface usable on small screens, and record changes rather than relying on undocumented edits. This was especially important because RideBox is pre-launch. The website therefore distinguishes between current capabilities and proposed kiosk features, for example by describing the hardware as a concept and stating that the first unit is still in preparation. I learned that a clear content boundary is as important as visual polish when a product is not yet operating.
+The project was given a practical boundary by the charter, which said that the product should be communicated honestly, the interface should remain useable on small screens, and changes should be recorded rather than depending on undocumented edits. I was tackling issues alone at first but i learned to ask for help as time went on. Due to RideBox's pre-launch status, this was particularly crucial. As a result, the website makes a distinction between suggested kiosk features and existing capabilities. For instance, it states that the first unit is still being prepared and describes the hardware as a concept. I discovered that when a product isn't yet functional, a distinct content boundary is just as crucial as esthetic polish. Working on this project really helped me grasp how things are done professionally.
 
 ## 2. User Stories and Tasks
 
@@ -226,7 +226,7 @@ The charter gave the project a practical boundary: communicate the product hones
 
 ### Reflection
 
-Writing the stories before describing the implementation helped me connect each page to an actual audience need. The most useful change in my thinking was separating the product audiences: a rider needs access and safety information, while a host or operator needs partnership information. The FAQ and inquiry categories reflect that distinction. I also learned to describe the actual behaviour accurately: the form opens the visitor's email application through `mailto`; it is not a server-side form submission.
+I was able to relate each page to a real audience need by writing the stories before explaining the execution. Separating the product audiences a rider needs access and safety information, while a host or operator needs partnership information was the most beneficial shift in my way of thinking. That distinction is reflected in the inquiry and FAQ categories. I also learnt how to appropriately explain the real behavior: it is not a server-side form submission; rather, the form opens the visitor's email application via mailto. Thinking as an end-user helped me pitch how the design of the site should be based off how i think users will interact with it.
 
 ## 3. Trello
 
@@ -262,7 +262,7 @@ Git records the technical history of this project, but Trello would provide a cl
 
 ### Reflection
 
-I prioritised the backlog in dependency order: the application shell and navigation had to exist before the content pages could be connected, and the core pages had to be available before SEO and refinement work could be checked. The commit history shows that the work continued after the first implementation through responsive changes, contact integration, SEO improvements, and content corrections. The remaining evidence task is not a code feature: it is to attach the Trello and GitHub Pages proof required by the assessment.
+I prioritized the backlog according to dependencies: the core pages had to be accessible before SEO and refinement work could be examined, and the application shell and navigation had to exist before the content pages could be connected. The commit history demonstrates that responsive modifications, contact integration, SEO enhancements, and content edits were made after the first implementation. The remaining evidence task is to attach the Trello and GitHub Pages proof that the assessment requires; it is not a code feature.
 
 ## 5. Sprint Backlog
 
@@ -283,7 +283,7 @@ I prioritised the backlog in dependency order: the application shell and navigat
 
 ### Reflection
 
-The sprint structure made a large website easier to manage because each task produced a visible increment. A major lesson was that implementation is not finished when the page first renders: responsive spacing, metadata, copy accuracy, and image naming also affect the quality of the deliverable. The later commits show this refinement cycle. In a future sprint I would add a formal acceptance checklist and capture screenshots at each breakpoint before marking the task complete.
+Since each work resulted in a visible increment, the sprint format made managing a huge website easier. One important lesson was that implementation is not complete when the website first loads; the quality of the deliverable is also impacted by responsive spacing, metadata, text accuracy, and picture naming. This cycle of refining is obvious in the next commits. Before declaring a job finished, I would take screenshots at each breakpoint and include a formal acceptance checklist in a subsequent sprint.
 
 ## 6. Agile Logbook
 
@@ -318,7 +318,51 @@ The Git history provides a verifiable project log:
 
 **Action plan:** Add Trello evidence, capture responsive screenshots, verify the final GitHub Pages link, and keep a short log entry for each future sprint. For a production release, test the contact flow on supported browsers and replace the client-side email hand-off with a monitored submission service.
 
-## 7. Evidence and submission checklist
+## 7. Work-integrated learning screenshot evidence
+
+The screenshots below provide visual evidence for the design process, implementation, deployed RideBox pages, and Git-based iteration described in this portfolio. The source images are stored in the [`evidence/`](evidence/) folder.
+
+### Design evidence
+
+These screenshots show the Figma design work used as the visual reference for the RideBox website.
+
+<p>
+  <img src="evidence/Figma%20Design%201.png" alt="RideBox Figma design 1" width="420">
+  <img src="evidence/Figma%20Design%202.png" alt="RideBox Figma design 2" width="420">
+  <img src="evidence/Figma%20design%203.png" alt="RideBox Figma design 3" width="420">
+</p>
+
+### Live website evidence
+
+These screenshots show the implemented and published website across the main user journeys: the home page, kiosk concept, contact page, FAQ content, team page, and shared header/footer.
+
+<p>
+  <img src="evidence/Live%20Site%20Homepage.png" alt="Live RideBox homepage" width="420">
+  <img src="evidence/Live%20site%20homepage%20-%20Kiosk%20View.png" alt="Live RideBox homepage kiosk view" width="420">
+  <img src="evidence/Live%20site%20kioskpage%20kiosks.png" alt="Live RideBox kiosk page" width="420">
+  <img src="evidence/Live%20site%20contact%20page.png" alt="Live RideBox contact page" width="420">
+  <img src="evidence/Live%20site%20FAQ.png" alt="Live RideBox FAQ page" width="420">
+  <img src="evidence/Live%20site%20me%20on%20the%20Teams%20Page.png" alt="Live RideBox team page" width="420">
+  <img src="evidence/Live%20site%20header%20and%20footer.png" alt="Live RideBox shared header and footer" width="420">
+</p>
+
+### Git and development evidence
+
+These screenshots show the repository activity and supporting development evidence used to connect the implementation to the project history.
+
+<p>
+  <img src="evidence/Commits-1.png" alt="RideBox Git commit history evidence" width="420">
+  <img src="evidence/Commits-2.png" alt="RideBox Git commit details evidence" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20220606.png" alt="RideBox development evidence screenshot" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20220643.png" alt="RideBox development evidence screenshot" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20220904.png" alt="RideBox design evidence screenshot" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20220946.png" alt="RideBox design evidence screenshot" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20221017.png" alt="RideBox design evidence screenshot" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20221515.png" alt="RideBox FAQ evidence screenshot" width="420">
+  <img src="evidence/Screenshot%202026-10-27%20222216.png" alt="RideBox additional development evidence screenshot" width="420">
+</p>
+
+## 8. Evidence and submission checklist
 
 - [x] Agile Team Charter with evidence and reflection.
 - [x] User Stories and Tasks with implementation evidence and reflection.
@@ -326,7 +370,7 @@ The Git history provides a verifiable project log:
 - [x] Product Backlog with priorities, acceptance evidence, status, and reflection.
 - [x] Sprint Backlog with sprint goal, tasks, outputs, and reflection.
 - [x] Agile Logbook with dated Git evidence, stand-up entries, and retrospective.
+- [x] Work-integrated learning screenshots added from the [`evidence/`](evidence/) folder.
 - [ ] Student name and student number completed.
 - [ ] Final GitHub Pages URL added and tested.
 - [ ] Portfolio committed to the GitHub repository and linked in the Blackboard submission.
-
