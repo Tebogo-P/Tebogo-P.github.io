@@ -232,16 +232,19 @@ I was able to relate each page to a real audience need by writing the stories be
 
 ### Evidence
 
-The assessment brief specifically asks for Trello evidence. A Trello board URL is not stored in this Git repository, so it must be added before submission:
+The workplace project did not use Trello as an official project-management tool. I will therefore create a personal retrospective Trello board based on my actual RideBox activities, Git commits, Figma work, testing, and deployed website evidence. This board will be submitted as an individual reconstruction for assessment purposes; it is not presented as the company's official board.
 
-- **Trello board:** [Add your Trello board link here]
+**Evidence to add before submission:**
+
+- **Trello board:** [Add the personal retrospective Trello board link here]
 - **Board screenshot/export:** [Add a screenshot or exported board artefact here]
+- **Lecturer confirmation:** [Add confirmation that a retrospective personal board is acceptable, if available]
 
-The board should contain, at minimum, lists such as **Backlog**, **To Do**, **In Progress**, **Review/Testing**, and **Done**. Cards should correspond to the user stories and tasks in this portfolio, with labels or checklists showing design, development, SEO, responsive testing, and deployment work. Do not claim this section is complete until the board link and visual evidence have been added.
+The board will contain lists such as **Backlog**, **To Do**, **In Progress**, **Review/Testing**, **Done**, and **Blocked/Future Improvements**. Cards will correspond only to work supported by the evidence in this portfolio, including the Figma designs, implementation commits, responsive improvements, SEO work, contact flow, deployment, and screenshots. Cards will not be backdated or presented as official workplace activity.
 
 ### Reflection
 
-Git records the technical history of this project, but Trello would provide a clearer view of work-in-progress, priorities, and task ownership. The absence of a board in the repository is a gap in my evidence rather than evidence that Trello was used. For the final submission, I will use the board to connect planned work to completed commits and to make unfinished or blocked work visible.
+The workplace's project-management process did not use Trello, so there is no official workplace Trello board to submit. Git records the technical history of the project, while the personal retrospective board will provide a visual view of planning, progress, review, and completed work for assessment. I will clearly label it as a retrospective reconstruction and use it to connect each card to real commits, design artefacts, screenshots, and the deployed website. This approach is transparent because it does not claim that Trello was used at the workplace or invent project activity.
 
 ## 4. Product Backlog
 
@@ -314,7 +317,7 @@ The Git history provides a verifiable project log:
 
 **What went well:** The project moved from a visual concept to a coherent multi-page React site. The commit history shows iterative work rather than one untraceable final upload, and later corrections improved the reliability of the visible content.
 
-**What could improve:** I should have maintained the Trello board alongside the repository and recorded acceptance checks for mobile, accessibility, and deployment. The contact flow could also be upgraded from a `mailto` hand-off to a server-backed form when the project has a secure backend.
+**What could improve:** My supervisors gave me alot of freedom schedule wise as they trusted me to get the job done, i just think i could have handled my time management better in some areas. The contact flow could also be upgraded from a `mailto` hand-off to a server-backed form when the project has a secure backend. 
 
 **Action plan:** Add Trello evidence, capture responsive screenshots, verify the final GitHub Pages link, and keep a short log entry for each future sprint. For a production release, test the contact flow on supported browsers and replace the client-side email hand-off with a monitored submission service.
 
@@ -360,7 +363,7 @@ These screenshots show the repository activity and supporting development eviden
 
 - [x] Agile Team Charter with evidence and reflection.
 - [x] User Stories and Tasks with implementation evidence and reflection.
-- [ ] Trello board link and screenshot/export added in Section 3.
+- [ ] Personal retrospective Trello board link, screenshot/export, and (where available) lecturer confirmation added in Section 3.
 - [x] Product Backlog with priorities, acceptance evidence, status, and reflection.
 - [x] Sprint Backlog with sprint goal, tasks, outputs, and reflection.
 - [x] Agile Logbook with dated Git evidence, stand-up entries, and retrospective.
