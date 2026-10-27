@@ -353,12 +353,6 @@ These screenshots show the repository activity and supporting development eviden
 <p>
   <img src="evidence/Commits-1.png" alt="RideBox Git commit history evidence" width="420">
   <img src="evidence/Commits-2.png" alt="RideBox Git commit details evidence" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20220606.png" alt="RideBox development evidence screenshot" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20220643.png" alt="RideBox development evidence screenshot" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20220904.png" alt="RideBox design evidence screenshot" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20220946.png" alt="RideBox design evidence screenshot" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20221017.png" alt="RideBox design evidence screenshot" width="420">
-  <img src="evidence/Screenshot%202026-10-27%20221515.png" alt="RideBox FAQ evidence screenshot" width="420">
   <img src="evidence/Screenshot%202026-10-27%20222216.png" alt="RideBox additional development evidence screenshot" width="420">
 </p>
 
