@@ -241,8 +241,6 @@ The workplace project did not use Trello as an official project-management tool.
 
   ![RideBox Technologies Trello board](evidence/Trello%20Board.png)
 
-- **Lecturer confirmation:** [Add confirmation that a retrospective personal board is acceptable, if available]
-
 The board will contain lists such as **Backlog**, **To Do**, **In Progress**, **Review/Testing**, **Done**, and **Blocked/Future Improvements**. Cards will correspond only to work supported by the evidence in this portfolio, including the Figma designs, implementation commits, responsive improvements, SEO work, contact flow, deployment, and screenshots. Cards will not be backdated or presented as official workplace activity.
 
 ### Reflection
@@ -264,7 +262,7 @@ There is no official workplace Trello board to submit because Trello was not use
 | PB-07 | Medium | Add SEO and discoverability metadata | Page metadata, [`robots.txt`](https://github.com/Tebogo-P/RideBox-App/blob/main/public/robots.txt), and [`sitemap.xml`](https://github.com/Tebogo-P/RideBox-App/blob/main/public/sitemap.xml) are present. | Done |
 | PB-08 | Medium | Improve responsive behaviour | Mobile and tablet layout corrections are recorded in Git history. | Done |
 | PB-09 | Medium | Correct content and asset issues | Team name/photo corrections are recorded in [Name fix](https://github.com/Tebogo-P/RideBox-App/commit/60403f035665fe7b8cbc168368164bfaf5affefd0) and [Regan Picture Fix](https://github.com/Tebogo-P/RideBox-App/commit/844bb557efa0ea4f7e70bbc72de64a57096798d0). | Done |
-| PB-10 | High | Publish and evidence the final portfolio | Add the final GitHub Pages URL and Trello evidence to this document. | To verify |
+
 
 ### Reflection
 
@@ -285,7 +283,7 @@ I prioritized the backlog according to dependencies: the core pages had to be ac
 | Add enquiry flow | [`Contact.jsx`](https://github.com/Tebogo-P/RideBox-App/blob/main/src/pages/Contact.jsx) | Done |
 | Improve metadata and search discovery | [SEO Optimisation commit](https://github.com/Tebogo-P/RideBox-App/commit/aab11b4d427ce89681816586d51578b9f2de407e) | Done |
 | Check responsive layouts and fix content/assets | [Mobile Responsiveness Update](https://github.com/Tebogo-P/RideBox-App/commit/db5a6df75e89cd3c0029e1bb12483360800bcb34), [Name fix](https://github.com/Tebogo-P/RideBox-App/commit/60403f035665fe7b8cbc168368164bfaf5affefd0) | Done |
-| Publish final evidence | GitHub Pages URL, Trello URL, screenshots | To verify |
+
 
 ### Reflection
 
