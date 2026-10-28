@@ -247,7 +247,7 @@ The board will contain lists such as **Backlog**, **To Do**, **In Progress**, **
 
 ### Reflection
 
-The workplace's project-management process did not use Trello, so there is no official workplace Trello board to submit. Git records the technical history of the project, while the personal retrospective board will provide a visual view of planning, progress, review, and completed work for assessment. I will clearly label it as a retrospective reconstruction and use it to connect each card to real commits, design artefacts, screenshots, and the deployed website. This approach is transparent because it does not claim that Trello was used at the workplace or invent project activity.
+There is no official workplace Trello board to submit because Trello was not used in the project-management process. While the personal retrospective board will offer a visual representation of planning, progress, review, and finished work for evaluation, Git documents the project's technical history. I'll identify it as a retrospective reconstruction and utilize it to link each card to actual commits, screenshots, design artifacts, and the live website. Because it doesn't assert that Trello was used at work or create project activities, this method is transparent. 
 
 ## 4. Product Backlog
 
